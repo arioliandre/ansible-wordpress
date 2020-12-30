@@ -68,6 +68,7 @@ A tela de instalação da aplicação (WordPress) será exibida.
 - O playbook do Ansible está no arquivo <b>provisioning.yml</b>, onde é possível verificar todas as configurações realizadas nos servidores e que podem ser modificadas para estudo.
 - O arquivo <b>hosts</b> (inventário) tem os parâmetros necessários para execução do playbook.
 - O arquivo <b>all.yml</b> possui a declaração das variáveis utilizadas no arquivo de playbook.
+- O arquivo <b>VagrantFile</b> possui todas as configurações para o provisionamento das VMs.
 
 # Documentações oficiais
 
