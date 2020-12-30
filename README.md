@@ -50,6 +50,13 @@ vagrant up
 ansible-playbook provisioning.yml -i hosts 
 ```
 
+<h5> Acessando as VMs por SSH </h5>
+
+```
+vagrant ssh wordpress
+vagrant ssh mysql
+```
+
 Após o start e conclusão do playbook, você pode acessar diretamente do seu navegador o endereço: http://172.17.177.40/.
 
 A tela de instalação da aplicação (WordPress) será exibida.
