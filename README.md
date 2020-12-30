@@ -50,7 +50,8 @@ vagrant up
 ansible-playbook provisioning.yml -i hosts 
 ```
 
-Após o start e conclusão do playbook, você pode acessar diretamente do seu navegador o endereço: http://172.17.177.40/
+Após o start e conclusão do playbook, você pode acessar diretamente do seu navegador o endereço: http://172.17.177.40/.
+
 A tela de instalação da aplicação (WordPress) será exibida.
 
 ----
