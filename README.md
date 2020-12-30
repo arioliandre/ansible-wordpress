@@ -69,6 +69,7 @@ A tela de instalação da aplicação (WordPress) será exibida.
 - O arquivo <b>hosts</b> (inventário) tem os parâmetros necessários para execução do playbook.
 - O arquivo <b>all.yml</b> possui a declaração das variáveis utilizadas no arquivo de playbook.
 - O arquivo <b>VagrantFile</b> possui todas as configurações para o provisionamento das VMs.
+- O diretório <b>Files</b> possui os arquivos que são copiados da nossa máquina local diretamente para as VMs.
 
 # Documentações oficiais
 
